@@ -1,0 +1,51 @@
+Detailed Report
+------------------------------------------------------------------------------------------------------
+
+timelapse
+
+      Date
+From  Wed Nov 23 16:15:09 CET 2016
+Until Wed Nov 23 16:15:36 CET 2016
+Report generation date Wed Nov 23 16:15:36 CET 2016
+
+
+
+
+------------------------------------------------------------------------------------------------------
+Root Projects
+------------------------------------------------------------------------------------------------------
+
+Project    Start date                   End date                     Duration         
+P1         Wed Nov 23 16:15:14 CET 2016 Wed Nov 23 16:15:33 CET 2016 00h:00m:14s 
+
+------------------------------------------------------------------------------------------------------
+SubProjects
+------------------------------------------------------------------------------------------------------
+
+Only the subprojects with one or more tasks inside this timelapse are included on this table.
+
+Project    Start date                   End date                     Duration
+P2         Wed Nov 23 16:15:14 CET 2016 Wed Nov 23 16:15:23 CET 2016 00h:00m:10s 
+P3         Wed Nov 23 16:15:14 CET 2016 Wed Nov 23 16:15:14 CET 2016 00h:00m:00s 
+
+------------------------------------------------------------------------------------------------------
+Tasks
+------------------------------------------------------------------------------------------------------
+
+This table includes tasks and the projects they belong to.
+
+Task    Start date                   End date                     Duration
+T3      Wed Nov 23 16:15:14 CET 2016 Wed Nov 23 16:15:33 CET 2016 00h:00m:04s 
+T2      Wed Nov 23 16:15:14 CET 2016 Wed Nov 23 16:15:23 CET 2016 00h:00m:10s 
+
+------------------------------------------------------------------------------------------------------
+Intervals
+------------------------------------------------------------------------------------------------------
+
+This table includes start date, end date and duration of all the intervals inside this timelapse and the task they belong to.
+
+Task    Interval     Start date                   End date                     Duration
+T3      num          Wed Nov 23 16:15:14 CET 2016 Wed Nov 23 16:15:14 CET 2016 00h:00m:02s 
+T3      num          Wed Nov 23 16:15:33 CET 2016 Wed Nov 23 16:15:33 CET 2016 00h:00m:02s 
+T2      num          Wed Nov 23 16:15:23 CET 2016 Wed Nov 23 16:15:23 CET 2016 00h:00m:10s 
+
